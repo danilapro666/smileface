@@ -1,0 +1,59 @@
+.container {
+width: 1260px;
+padding: 30px;
+margin-left: auto;
+margin-right: auto;
+}
+.rectangle {
+    width: auto;
+display: flex;
+justify-content: space-between;
+align-items: flex-start;
+margin-bottom: 95px;
+}
+
+
+.rectangle1 {
+    width: 900px;
+    height: 122px;
+    background-color: blue;
+}
+.rectangle2 {
+width: 352px;
+height: 122px;
+background-color: blue;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.whitetext {
+color: aliceblue;
+size: 15px;
+}
+.greyblock {
+width: auto;
+display: flex;
+justify-content: space-between;
+margin-bottom: 50px;
+}
+.greyblock1 {
+width: 350px;
+height: 350px;
+background-color: grey;
+}
+.gradients {
+    width: auto;
+display: flex;
+justify-content: space-between;
+align-items: flex-start;
+margin-bottom: 65px;
+}
+.gradient {
+    width: 565px;
+    height: 330px;
+    background: linear-gradient(to bottom, blue, purple);
+}
+.greenblock {
+   height: 113px;
+    background-color: greenyellow;
+}
